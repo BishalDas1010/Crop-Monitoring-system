@@ -1,3 +1,4 @@
+//Arduino Code (Sending Data via Serial)
 #include <DHT.h>
 
 // Define pins
